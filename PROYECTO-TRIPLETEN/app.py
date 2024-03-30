@@ -8,13 +8,15 @@ car_data = pd.read_csv('vehicles_us.csv')
 # Encabezado y contexto cddel análisis
 st.title('Análisis Exploratorio de Datos de Vehículos')
 st.markdown("""
-Este anális explora un conjunto de datos de vehículos de segunda mano para entender las tendencias del mercado automotriz. 
+Este análisis explora un conjunto de datos de vehículos de segunda mano para entender las tendencias del mercado automotriz. 
 A través de la aplicación, podrás interactuar con los datos y visualizar distintos aspectos mediante filtros y gráficos interactivos.
 
 **Conclusiones clave:**
 - Los SUVs y camionetas son los tipos de vehículos más populares.
 - Existe una clara relación entre el año del modelo y el precio, indicando la depreciación con el tiempo.
 - El kilometraje tiene un impacto significativo en el precio, donde menos kilometraje implica un precio más alto.
+
+Para más detalles, consulta el [README del proyecto](https://github.com/PMedinaGarcia/PROYECTO-APP-TRIPLETEN/blob/main/PROYECTO-TRIPLETEN/README.md).
 """)
 
 # Definir filtros en la barra lateral
