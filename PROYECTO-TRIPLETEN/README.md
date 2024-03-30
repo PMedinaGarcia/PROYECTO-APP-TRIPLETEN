@@ -7,5 +7,5 @@ Este proyecto, desarrollado por Patricio Medina, estudiante de Ciencia de Datos,
 # Funcionalidades
 - Visualización de Datos: Genera gráficos interactivos que muestran la relación entre diferentes variables como precio, año del modelo, tipo de vehículo y condición.
 - Filtrado Dinámico: Permite a los usuarios aplicar filtros para ver segmentos específicos del mercado, como vehículos dentro de un rango de precios o año de fabricación.
-- Análisis de Tendencias: Ayuda a identificar tendencias en el mercado de vehículos usados, como los modelos más populares o variaciones en los precios a lo largo del tiempo.
+- Análisis de Tendencias: Ayuda a identificar tendencias en el mercado de automóviles usados, como los modelos más populares o variaciones en los precios a lo largo del tiempo.
 - Interactividad: Los usuarios pueden interactuar con los datos a través de una interfaz web intuitiva, facilitando el análisis y la comprensión del mercado.

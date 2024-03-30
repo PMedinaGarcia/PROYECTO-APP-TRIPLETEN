@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Leer los datos del archivo CSV
-car_data = pd.read_csv(r'C:\Users\patri\OneDrive\Escritorio\PROYECTO TRIPLETEN PMG\vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 # Encabezado y contexto cddel análisis
 st.title('Análisis Exploratorio de Datos de Vehículos')
