@@ -2,7 +2,7 @@
 
 # Análisis Exploratorio de Datos de Vehículos
 ## Descripción
-Este proyecto, desarrollado por Patricio Medina, estudiante de Ciencia de Datos, es una aplicación web diseñada para realizar un Análisis Exploratorio de Datos (EDA) de un conjunto de datos de vehículos de segunda mano. La aplicación permite a los usuarios visualizar diferentes aspectos del mercado de vehículos usados, como precios, kilometraje, tipo de vehículo y su condición.
+Este proyecto, desarrollado por Patricio Medina, estudiante de Ciencia de Datos, es una aplicación web diseñada para realizar un Análisis Exploratorio de Datos (EDA) de un conjunto de datos de vehículos de segunda mano. La aplicación permite a los visitantes visualizar diferentes aspectos del mercado de vehículos usados, como precios, kilometraje, tipo de vehículo y su condición.
 
 # Funcionalidades
 - Visualización de Datos: Genera gráficos interactivos que muestran la relación entre diferentes variables como precio, año del modelo, tipo de vehículo y condición.

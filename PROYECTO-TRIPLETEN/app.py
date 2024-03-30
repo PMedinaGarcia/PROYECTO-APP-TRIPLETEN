@@ -5,7 +5,7 @@ import plotly.express as px
 # Leer los datos del archivo CSV
 car_data = pd.read_csv(r'C:\Users\patri\OneDrive\Escritorio\PROYECTO TRIPLETEN PMG\vehicles_us.csv')
 
-# Título y contexto cddel análisis
+# Encabezado y contexto cddel análisis
 st.title('Análisis Exploratorio de Datos de Vehículos')
 st.markdown("""
 Este anális explora un conjunto de datos de vehículos de segunda mano para entender las tendencias del mercado automotriz. 
